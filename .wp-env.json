@@ -1,0 +1,14 @@
+
+
+{
+  "core": "WordPress/WordPress",
+  "testsEnvironment": false,
+  "plugins": [
+    "/home/rich/Documents/CODE_SESSIONS/Wordpress/Event_Plugin/plugins/the-events-calendar"
+  ],
+  "config": {
+    "WP_DEBUG": true,
+    "WP_DEBUG_LOG": true,
+    "SCRIPT_DEBUG": true
+  }
+}   
